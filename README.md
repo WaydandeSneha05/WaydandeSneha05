@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sneha-w-44680023a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sneha-w-44680023a/" height="30" width="40" /></a>
 </p>
 
+<!--
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
 
@@ -101,6 +102,48 @@ Here are some ideas to get you started:
 <a href="https://tailwindcss.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
 </a>
+</p>-->
+
+# 💻 Tech Stack:
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
+
+<img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/TailwindCSS-teal?style=for-the-badge&logo=tailwind-css"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Appwrite-pink?style=for-the-badge&logo=appwrite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-teal?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL_Server-red?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=selenium&logoColor=white"/>
+
 </p>
 
 
